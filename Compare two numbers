@@ -1,0 +1,16 @@
+
+n1=int(input('enter number'))
+n2=int(input('enter number'))
+if n1==n2:
+    print('given numbers are equal')
+if n1!=n2:
+    print('given numbers are not equal')
+if n1>n2:
+    print('n1 is greater')
+if n2>n1:
+    print('n2 is greater')
+Output:
+enter number4
+enter number9
+given numbers are not equal
+n2 is greater
